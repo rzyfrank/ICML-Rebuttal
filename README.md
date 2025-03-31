@@ -1,4 +1,4 @@
-# Additional material for the rebuttal of paper 5403
+# Tables for the rebuttal of paper 5403
 
 ### <center>Table R1. The results of different defense methods against ICLAttack for different tasks on GPT-NEO-1.3B.</center>
 <p align="center">
